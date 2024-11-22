@@ -1,0 +1,161 @@
+// Convert to JSON
+import {Recipe} from "./recipe";
+
+export class RecipeService {
+  private readonly baseUrl= 'https://angular.dev/assets/images/tutorials/common';
+  recipeList: Recipe[]= [
+    {
+      id: 0,
+      name: 'Cheese Burger',
+      age: 3,
+      ingredients: ['salt', 'pepper', 'beef', 'cheddar cheese'],
+      preparationTimeInMinutes: 15,
+      cookingTimeInMinutes: 7,
+      numberOfPeople: 2,
+      description: ['Firstly, lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum',
+        'Secondly, lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum',
+        'Next, lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum',
+        'Next, lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum',
+        'And finally, lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum'],
+      picturePath: '/assets/food/CheeseBurger.png'
+    },
+    {
+      id: 1,
+      name: 'Spaguetti Bolognese',
+      age: 5,
+      ingredients: ['salt', 'pepper', 'beef', 'cheddar cheese'],
+      preparationTimeInMinutes: 12,
+      cookingTimeInMinutes: 0,
+      numberOfPeople: 3,
+      description: ['Firstly, lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum',
+        'Secondly, lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum',
+        'Next, lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum',
+        'Next, lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum',
+        'And finally, lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum'],
+      picturePath: '/assets/food/SpaguettiBolognese.png'
+    },
+    {
+      id: 2,
+      name: 'Spanish Omelette',
+      age: 5,
+      ingredients: ['salt', 'pepper', 'beef', 'cheddar cheese'],
+      preparationTimeInMinutes: 12,
+      cookingTimeInMinutes: 1,
+      numberOfPeople: 3,
+      description: ['Firstly, lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum',
+            'Secondly, lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum',
+            'Next, lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum',
+            'Next, lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum',
+            'And finally, lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum'],
+      picturePath: '/assets/food/SpanishOmelette.png'
+    },
+    {
+      id: 3,
+      name: 'Fideua',
+      age: 5,
+      ingredients: ['salt', 'pepper', 'beef', 'cheddar cheese'],
+      preparationTimeInMinutes: 12,
+      cookingTimeInMinutes: 1,
+      numberOfPeople: 3,
+      description: ['Firstly, lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum',
+            'Secondly, lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum',
+            'Next, lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum',
+            'Next, lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum',
+            'And finally, lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum'],
+      picturePath: '/assets/food/Fideua.png'
+    },
+    {
+      id: 4,
+      name: 'Chicken Fajitas',
+      age: 5,
+      ingredients: ['salt', 'pepper', 'beef', 'cheddar cheese'],
+      preparationTimeInMinutes: 12,
+      cookingTimeInMinutes: 1,
+      numberOfPeople: 3,
+      description: ['Firstly, lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum',
+            'Secondly, lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum',
+            'Next, lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum',
+            'Next, lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum',
+            'And finally, lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum'],
+      picturePath: '/assets/food/ChickenFajitas.png'
+    },
+    {
+      id: 5,
+      name: 'Salmon With Asparagus',
+      age: 5,
+      ingredients: ['salt', 'pepper', 'beef', 'cheddar cheese'],
+      preparationTimeInMinutes: 12,
+      cookingTimeInMinutes: 2,
+      numberOfPeople: 3,
+      description: ['Firstly, lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum',
+            'Secondly, lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum',
+            'Next, lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum',
+            'Next, lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum',
+            'And finally, lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum'],
+      picturePath: '/assets/food/SalmonWithAsparagus.png'
+    },
+    {
+      id: 6,
+      name: 'Homemade Pizza',
+      age: 5,
+      ingredients: ['salt', 'pepper', 'beef', 'cheddar cheese'],
+      preparationTimeInMinutes: 12,
+      cookingTimeInMinutes: 5,
+      numberOfPeople: 3,
+      description: ['Firstly, lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum',
+            'Secondly, lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum',
+            'Next, lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum',
+            'Next, lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum',
+            'And finally, lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum'],
+      picturePath: '/assets/food/HomeMadePizza.png'
+    },
+    {
+      id: 7,
+      name: 'Grilled Seafood',
+      age: 5,
+      ingredients: ['salt', 'pepper', 'beef', 'cheddar cheese'],
+      preparationTimeInMinutes: 12,
+      cookingTimeInMinutes: 2,
+      numberOfPeople: 3,
+      description: ['Firstly, lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum',
+            'Secondly, lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum',
+            'Next, lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum',
+            'Next, lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum',
+            'And finally, lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum'],
+      picturePath: '/assets/food/GrilledSeafood.png'
+    },
+    {
+      id: 8,
+      name: 'Tiramisu',
+      age: 5,
+      ingredients: ['salt', 'pepper', 'beef', 'cheddar cheese'],
+      preparationTimeInMinutes: 12,
+      cookingTimeInMinutes: 10,
+      numberOfPeople: 3,
+      description: ['Firstly, lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum',
+            'Secondly, lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum',
+            'Next, lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum',
+            'Next, lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum',
+            'And finally, lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum'],
+      picturePath: '/assets/food/Tiramisu.png'
+    },
+    {
+      id: 9,
+      name: 'Paella Valenciana',
+      age: 5,
+      ingredients: ['salt', 'pepper', 'beef', 'cheddar cheese'],
+      preparationTimeInMinutes: 12,
+      cookingTimeInMinutes: 6,
+      numberOfPeople: 3,
+      description: ['Firstly, lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum',
+            'Secondly, lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum',
+            'Next, lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum',
+            'Next, lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum',
+            'And finally, lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum'],
+      picturePath: '/assets/food/PaellaValenciana.png'
+    },
+  ];
+
+  constructor() {  }
+
+}

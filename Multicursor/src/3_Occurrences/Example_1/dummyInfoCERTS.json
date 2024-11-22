@@ -1,0 +1,1305 @@
+// Replace TaxIds for the ones that are at the end of the file
+{
+  "DgiiCertificatesSettings": {
+    "BasePathCert": "Voxel.TransactionsReceiver.CrossCutting.Resources.Certificates",
+    "Certificates": [
+      {
+        "Name": "Voxel Caribe Cert",
+        "Environment": "Certificado",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Name": "Administración y Atesoramiento Test",
+        "Environment": "Test",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Name": "Administración y Atesoramiento Cert",
+        "Environment": "Certificado",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Name": "Dominican Watchman Test",
+        "Environment": "Test",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Name": "Dominican Watchman Cert",
+        "Environment": "Certificado",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Name": "ThynkAds Test",
+        "Environment": "Test",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Name": "ThynkAds Cert",
+        "Environment": "Certificado",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Name": "ThynkAds Prod",
+        "Environment": "Produccion",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Name": "Seguros Ademi Cert",
+        "Environment": "Certificado",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Produccion",
+        "Name": "Alambres y Cables, SAS",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Produccion",
+        "Name": "Caribex Dominicana, SAS",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Produccion",
+        "Name": "Cereales en General, SAS",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Produccion",
+        "Name": "Corvi Acero, SAS",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Produccion",
+        "Name": "Corvi PVC, SAS",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Produccion",
+        "Name": "Editora Listin Diario",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Produccion",
+        "Name": "Isla Dominicana De Petroleo Corporation",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Produccion",
+        "Name": "Productos del Trópico, SAS",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Produccion",
+        "Name": "Teleantillas, SAS",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Produccion",
+        "Name": "CANAL 11",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Produccion",
+        "Name": "Lanco Dominicana SAS",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Produccion",
+        "Name": "Molinos del Higuamo, SAS",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Produccion",
+        "Name": "Editora Hoy, SAS",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Test",
+        "Name": "ALAMBRES Y CABLES S A S Test",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Test",
+        "Name": "CARIBEX DOMINICANA SA Test",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Test",
+        "Name": "CEREALES EN GENERAL TEST",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Test",
+        "Name": "CORVI ACERO SAS Test",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Test",
+        "Name": "CORVI PVC SAS Test",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Test",
+        "Name": "LISTIN DIARIO Test",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Test",
+        "Name": "ISLA DOMINICANA DE PETROLEO CORPORATION Test",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Test",
+        "Name": "PRODUCTOS DEL TROPICO Test",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Test",
+        "Name": "TELEANTILLAS Test",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Test",
+        "Name": "CANAL 11 Test",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Test",
+        "Name": "LANCO DOMINICANA Test",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Test",
+        "Name": "MOLINOS DEL HIGUAMO INC Test",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Test",
+        "Name": "EDITORA HOY SAS Test",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Certificado",
+        "Name": "ALAMBRES Y CABLES S A S Cert",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Certificado",
+        "Name": "CARIBEX DOMINICANA SA Cert",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Certificado",
+        "Name": "CEREALES EN GENERAL Cert",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Certificado",
+        "Name": "CORVI ACERO SAS Cert",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Certificado",
+        "Name": "CORVI PVC SAS Cert",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Certificado",
+        "Name": "LISTIN DIARIO Cert",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Certificado",
+        "Name": "ISLA DOMINICANA DE PETROLEO CORPORATION Cert",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Certificado",
+        "Name": "PRODUCTOS DEL TROPICO Cert",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Certificado",
+        "Name": "TELEANTILLAS Cert",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Certificado",
+        "Name": "CANAL 11 Cert",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Certificado",
+        "Name": "LANCO DOMINICANA Cert",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Certificado",
+        "Name": "MOLINOS DEL HIGUAMO INC Cert",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Certificado",
+        "Name": "EDITORA HOY SAS Cert",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Test",
+        "Name": "VoxelCaribe Test DGII Travel",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Test",
+        "Name": "Sinergit Test",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Certificado",
+        "Name": "Sinergit Cert",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Certificado",
+        "Name": "Valiente Fernández Cert DGII",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Produccion",
+        "Name": "Ajfa S.A Prod",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Certificado",
+        "Name": "Ajfa S.A Cert",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Test",
+        "Name": "Ajfa S.A Test",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Certificado",
+        "Name": "Abejas Logistic Group Cert",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Produccion",
+        "Name": "Refidomsa Prod",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Certificado",
+        "Name": "Refidomsa Cert",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Test",
+        "Name": "Refidomsa Test",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Produccion",
+        "Name": "Almacenes Samuel Abreu Prod",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Certificado",
+        "Name": " Almacenes Samuel Abreu Cert",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Test",
+        "Name": "Almacenes Samuel Abreu Test",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Produccion",
+        "Name": "Carrujo Empresarial Prod",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Certificado",
+        "Name": "Carrujo Empresarial Cert",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Test",
+        "Name": "Carrujo Empresarial Test",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Produccion",
+        "Name": "Madesol Prod",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Certificado",
+        "Name": "Madesol Cert",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Test",
+        "Name": "Madesol Test",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Produccion",
+        "Name": "Fraga Industrial",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Certificado",
+        "Name": "Fraga Industrial Cert",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Test",
+        "Name": "Fraga Industrial Test",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Test",
+        "Name": "Tuco Test DGII",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Certificado",
+        "Name": "Tuco Cert DGII",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Certificado",
+        "Name": "La Colonial Cert",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Produccion",
+        "Name": "Huawei Technologies Dominicana Srl",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Certificado",
+        "Name": "Huawei Technologies Dominicana Srl Cert",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Test",
+        "Name": "Huawei Technologies Dominicana Srl Test",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Certificado",
+        "Name": "Distribuidora Corripio Cert",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Produccion",
+        "Name": "SEPRISA",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Certificado",
+        "Name": "Seprisa Cert DGII",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Test",
+        "Name": "Seprisa Test DGII",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Produccion",
+        "Name": "COBINCA, SA",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Certificado",
+        "Name": "COBINCA Cert DGII",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Test",
+        "Name": "COBINCA Test DGII",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Certificado",
+        "Name": "La Fabril Cert DGII",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Produccion",
+        "Name": " Imeko Dominicana",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Certificado",
+        "Name": "Imeko Cert DGII",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Produccion",
+        "Name": "Carrefour RD",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Certificado",
+        "Name": "Carrefour RD Cert",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Test",
+        "Name": "Carrefour RD Test",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Certificado",
+        "Name": "Telares by Stonewood Cert",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Produccion",
+        "Name": "BAINSA ZF S.R.L.",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Certificado",
+        "Name": "BAINSA ZF S.R.L.",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Test",
+        "Name": "BAINSA ZF S.R.L.",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Produccion",
+        "Name": "JAJA AGROINDUSTRIAL, S.A.",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Certificado",
+        "Name": "JAJA AGROINDUSTRIAL, S.A.",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Test",
+        "Name": "JAJA AGROINDUSTRIAL, S.A.",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Produccion",
+        "Name": "PLASTICOS MULTIFORM",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Certificado",
+        "Name": "PLASTICOS MULTIFORM",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Test",
+        "Name": "PLASTICOS MULTIFORM",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Name": "Quala Dominicana Test",
+        "Environment": "Test",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Name": "Quala Dominicana Cert",
+        "Environment": "Certificado",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Name": "Quala Dominicana Prod",
+        "Environment": "Produccion",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Name": "Proquala Test",
+        "Environment": "Test",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Name": "Proquala Cert",
+        "Environment": "Certificado",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Name": "Proquala Prod",
+        "Environment": "Produccion",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Produccion",
+        "Name": "Leterago",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Certificado",
+        "Name": "Leterago",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Test",
+        "Name": "Leterago",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Produccion",
+        "Name": "Whala! Hotels",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Certificado",
+        "Name": "Whala! Hotels",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Test",
+        "Name": "Whala! Hotels",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Produccion",
+        "Name": "Majestic Desarrollo del Caribe produccion",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Test",
+        "Name": "Majestic Desarrollo del Caribe test",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Certificado",
+        "Name": "Majestic Desarrollo del Caribe certificacion",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Produccion",
+        "Name": "Tulcani Comercial produccion",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Test",
+        "Name": "Tulcani Comercial test",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Certificado",
+        "Name": "Tulcani Comercial certificacion",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Produccion",
+        "Name": "pedidos ya produccion",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Test",
+        "Name": "pedidos ya test",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Certificado",
+        "Name": "pedidos ya certificacion",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Produccion",
+        "Name": "aldereca produccion",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Test",
+        "Name": "aldereca test",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Certificado",
+        "Name": "aldereca certificacion",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Produccion",
+        "Name": "tiendas la nacional produccion",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Test",
+        "Name": "tiendas la nacional test",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Certificado",
+        "Name": "tiendas la nacional cert",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Test",
+        "Name": "mardom test",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Certificado",
+        "Name": "mardom cert",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Certificado",
+        "Name": "cerveceria nacional dom cert",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Produccion",
+        "Name": "green star partners prod",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Test",
+        "Name": "green star partners test",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Certificado",
+        "Name": "green star partners cert",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Produccion",
+        "Name": "promociones y proyectos prod",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Test",
+        "Name": "promociones y proyectos test",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Certificado",
+        "Name": "promociones y proyectos cert",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Test",
+        "Name": "fiesta bavaro hotels test",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Certificado",
+        "Name": "fiesta bavaro hotels cert",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Test",
+        "Name": "TotalEnergies Marketing Dom Test",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Certificado",
+        "Name": "TotalEnergies Marketing Dom Cert",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Certificado",
+        "Name": "Cartones Caribe Cert",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Test",
+        "Name": "ARS Primera test",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Certificado",
+        "Name": "ARS Primera cert",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Certificado",
+        "Name": "Solares y CIA Dom cert",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Produccion",
+        "Name": "Tanques Antillos prod",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Test",
+        "Name": "Tanques Antillos test",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Certificado",
+        "Name": "Tanques Antillos cert",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Test",
+        "Name": "COMMING2 test",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Certificado",
+        "Name": "COMMING2 cert",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Test",
+        "Name": "Cuatrope test",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Certificado",
+        "Name": "Cuatrope cert",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Test",
+        "Name": "Argos Dominicana test",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Certificado",
+        "Name": "Argos Dominicana cert",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Produccion",
+        "Name": "Seguros Universal Prod",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Test",
+        "Name": "Seguros Universal Test",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Certificado",
+        "Name": "Seguros Universal Cert",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Test",
+        "Name": "Materiales Dominicanos Test",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Certificado",
+        "Name": "Materiales Dominicanos Cert",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Certificado",
+        "Name": "CATALONIA CERT",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Produccion",
+        "Name": "Inversiones Punta Laguna prod",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Test",
+        "Name": "Iberostar test",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      },
+      {
+        "Environment": "Certificado",
+        "Name": "Iberostar cert",
+        "UserId": "UserId",
+        "TaxId": "TaxId"
+      }
+    ]
+  }
+}
+
+//120690
+//708740
+//420873
+//437329
+//408935
+//747256
+//494100
+//816390
+//863428
+//838007
+//503701
+//076460
+//845888
+//659361
+//789208
+//766304
+//683684
+//355044
+//092427
+//161865
+//987393
+//381209
+//717951
+//148262
+//059531
+//326050
+//704860
+//944141
+//892954
+//537735
+//900544
+//540700
+//527820
+//742819
+//203020
+//661414
+//430523
+//751570
+//889810
+//496357
+//792291
+//241352
+//482616
+//427230
+//948374
+//466182
+//034410
+//944188
+//234392
+//304617
+//316375
+//955126
+//144086
+//537721
+//957787
+//784979
+//991940
+//567016
+//358052
+//748171
+//947100
+//119785
+//596063
+//532265
+//981369
+//932219
+//202576
+//903411
+//182397
+//308224
+//228974
+//605165
+//654149
+//952688
+//586895
+//826253
+//540918
+//576033
+//115975
+//497849
+//032422
+//462357
+//897528
+//163869
+//162921
+//654395
+//977506
+//844307
+//768274
+//774618
+//712435
+//843519
+//264362
+//441931
+//262916
+//878345
+//523790
+//900581
+//235538
+//500134
+//328028
+//548667
+//963576
+//437751
+//867364
+//612580
+//674336
+//942822
+//790557
+//527111
+//610406
+//998521
+//077172
+//185231
+//067692
+//107151
+//356683
+//130773
+//173113
+//108041
+//380542
+//442071
+//553547
+//127125
+//534137
+//220291
+//215651
+//757998
+//234887
+//714943
+//138131
+//656843
+//834777
+//724581
+//863179
+//860512
+//917552
+//647944
+//170103
+//801298
+//966601
+//405716
+//970994
+//954469
+//623130
+//853322
+//168092
+//648214
+//303108
+//504227
+//403026
+//240955
+//201286
+//178696
+//373622
+//795338
+//270583
+//818483
+//722579
+//740564
+//701152
+//829034
+//083092
+//311434
+//243563
+//560089
+//043424
+//677771
+//069367
+//546403
+//908257
+//619196
+//842553
+//303527
+//650594
+//391472
+//532481
+//461372
+//816026
+//866565
+//024103
+//129975
+//942460
+//438205
+//873511
+//513952
+//367914
+//139967
+//074918
+//275311
+//279589
+//190598
+//646864
+//112077
+//936244
+//156229
+//303274
+//326758
+//403220
+//197350
+//954872
+//858952
+//952563
+//156084
+//841221
+//811282
+//064417
+//566052
+//200657
+//784460
+//860564
+//694407
+//948683
+//258876
+//228383
+//027915
+//521901
+//323846
+//820593
+//428261
+//268278
+//900489
+//080064
+//567533
+//787820
+//874465
+//407031
+//802036
+//738425
+//534201
+//074237
+//177236
+//319263
+//985310
+//984098
+//683699
+//418432
+//919455
+//591018
+//253454
+//508802
+//767235
+//811046
+//818494
+//755255
+//103016
+//202376
+//940529
+//155426
+//857057
+//854333
+//930429
+//406248
+//688646
+//446053
+//187691
+//460766
+//309262
+//093499
+//838821
+//406070
+//998042
+//188321
+//593307
+//965496
+//115275
+//100946
+//509357
+//709684
+//286884
+//300318
+//171134
+//307919
+//010535
+//990888
+//802511
+//031829
+//018186
+//793357
+//661889
+//688066
+//930012
+//125782
+//050690
+//481533
+//299696
+//625442
+//115290
+//536413
+//733990
+//936133
+//241790
+//492209
+//792762
+//474143
+//597312
+//004258
+//326000
+//282157
+//205952
+//135073
+//497324
+//800061
+//928096
+//056774
+//345695
+//479501
+//716180
+//423673
+//147937
+//679608
+//504447
+//243266
+//894126
+//770673
+//184239
+//886923
+//921375
+//920187
+//102614
+//153209
+//371843
+//691448
+//656895

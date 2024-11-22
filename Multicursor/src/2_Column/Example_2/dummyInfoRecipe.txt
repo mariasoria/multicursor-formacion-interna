@@ -1,0 +1,11 @@
+// Create an object in recipe.cs
+
+id (int)
+name (string)
+age (int)
+picturePath (string)
+preparationTimeInMinutes (int)
+cookingTimeInMinutes (int)
+numberOfPeople (int)
+ingredients (string[])
+description (string[])
