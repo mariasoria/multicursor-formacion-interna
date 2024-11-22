@@ -1,0 +1,1303 @@
+{
+  "DgiiCertificatesSettings": {
+    "BasePathCert": "Voxel.TransactionsReceiver.CrossCutting.Resources.Certificates",
+    "Certificates": [
+      {
+        "Name": "Voxel Caribe Cert",
+        "Environment": "CerteCF",
+        "UserId": 4337633,
+        "FileName": "VoxelCaribe.p12",
+        "Password": "qtzAFxQ6kURbARey",
+        "TaxId": "TST-00005778"
+      },
+      {
+        "Name": "Administración y Atesoramiento Test",
+        "Environment": "TesteCF",
+        "UserId": 4257970,
+        "FileName": "AdminAtesoramiento2022.p12",
+        "Password": "Unoque+nomeSe",
+        "TaxId": "TST-00005755"
+      },
+      {
+        "Name": "Administración y Atesoramiento Cert",
+        "Environment": "CerteCF",
+        "UserId": 4338437,
+        "FileName": "AdminAtesoramiento2022.p12",
+        "Password": "Unoque+nomeSe",
+        "TaxId": "TST-00005780"
+      },
+      {
+        "Name": "Dominican Watchman Test",
+        "Environment": "TesteCF",
+        "UserId": 4257969,
+        "FileName": "DominicanWatchmanNational2022.p12",
+        "Password": "AunsigoSinSaber",
+        "TaxId": "TST-00005754"
+      },
+      {
+        "Name": "Dominican Watchman Cert",
+        "Environment": "CerteCF",
+        "UserId": 4338080,
+        "FileName": "DominicanWatchmanNational2022.p12",
+        "Password": "AunsigoSinSaber",
+        "TaxId": "TST-00005779"
+      },
+      {
+        "Name": "ThynkAds Test",
+        "Environment": "TesteCF",
+        "UserId": 4935545,
+        "FileName": "ThynkAds.p12",
+        "Password": "chal1329",
+        "TaxId": "TST-00005862"
+      },
+      {
+        "Name": "ThynkAds Cert",
+        "Environment": "CerteCF",
+        "UserId": 5020522,
+        "FileName": "ThynkAds.p12",
+        "Password": "chal1329",
+        "TaxId": "TST-00005877"
+      },
+      {
+        "Name": "ThynkAds Prod",
+        "Environment": "eCF",
+        "UserId": 4935857,
+        "FileName": "ThynkAds.p12",
+        "Password": "chal1329",
+        "TaxId": "132157151"
+      },
+      {
+        "Name": "Seguros Ademi Cert",
+        "Environment": "CerteCF",
+        "UserId": 5903879,
+        "FileName": "SegurosAdemi-2023.p12",
+        "Password": "Hector1976",
+        "TaxId": "TST-00005992"
+      },
+      {
+        "Environment": "eCF",
+        "Name": "Alambres y Cables, SAS",
+        "UserId": "6102506",
+        "FileName": "CorripioGroup.p12",
+        "Password": "C0rripio",
+        "TaxId": "101040076"
+      },
+      {
+        "Environment": "eCF",
+        "Name": "Caribex Dominicana, SAS",
+        "UserId": "6102508",
+        "FileName": "CorripioGroup.p12",
+        "Password": "C0rripio",
+        "TaxId": "114014016"
+      },
+      {
+        "Environment": "eCF",
+        "Name": "Cereales en General, SAS",
+        "UserId": "6102509",
+        "FileName": "CorripioGroup.p12",
+        "Password": "C0rripio",
+        "TaxId": "101071532"
+      },
+      {
+        "Environment": "eCF",
+        "Name": "Corvi Acero, SAS",
+        "UserId": "6102513",
+        "FileName": "CorripioGroup.p12",
+        "Password": "C0rripio",
+        "TaxId": "124027195"
+      },
+      {
+        "Environment": "eCF",
+        "Name": "Corvi PVC, SAS",
+        "UserId": "6102533",
+        "FileName": "CorripioGroup.p12",
+        "Password": "C0rripio",
+        "TaxId": "122015434"
+      },
+      {
+        "Environment": "eCF",
+        "Name": "Editora Listin Diario",
+        "UserId": "6102546",
+        "FileName": "CorripioGroup.p12",
+        "Password": "C0rripio",
+        "TaxId": "101014334"
+      },
+      {
+        "Environment": "eCF",
+        "Name": "Isla Dominicana De Petroleo Corporation",
+        "UserId": "6102548",
+        "FileName": "CorripioGroup.p12",
+        "Password": "C0rripio",
+        "TaxId": "101008172"
+      },
+      {
+        "Environment": "eCF",
+        "Name": "Productos del Trópico, SAS",
+        "UserId": "6102556",
+        "FileName": "CorripioGroup.p12",
+        "Password": "C0rripio",
+        "TaxId": "101031816"
+      },
+      {
+        "Environment": "eCF",
+        "Name": "Teleantillas, SAS",
+        "UserId": "6102564",
+        "FileName": "CorripioGroup.p12",
+        "Password": "C0rripio",
+        "TaxId": "101058961"
+      },
+      {
+        "Environment": "eCF",
+        "Name": "CANAL 11",
+        "UserId": "6102565",
+        "FileName": "CorripioGroup.p12",
+        "Password": "C0rripio",
+        "TaxId": "101022541"
+      },
+      {
+        "Environment": "eCF",
+        "Name": "Lanco Dominicana SAS",
+        "UserId": "3513537",
+        "FileName": "CorripioGroup.p12",
+        "Password": "C0rripio",
+        "TaxId": "130072531"
+      },
+      {
+        "Environment": "eCF",
+        "Name": "Molinos del Higuamo, SAS",
+        "UserId": "6102568",
+        "FileName": "CorripioGroup.p12",
+        "Password": "C0rripio",
+        "TaxId": "131444492"
+      },
+      {
+        "Environment": "eCF",
+        "Name": "Editora Hoy, SAS",
+        "UserId": "6102569",
+        "FileName": "CorripioGroup.p12",
+        "Password": "C0rripio",
+        "TaxId": "101098376"
+      },
+      {
+        "Environment": "TesteCF",
+        "Name": "ALAMBRES Y CABLES S A S Test",
+        "UserId": "6102936",
+        "FileName": "CorripioGroup.p12",
+        "Password": "C0rripio",
+        "TaxId": "TST-00006024"
+      },
+      {
+        "Environment": "TesteCF",
+        "Name": "CARIBEX DOMINICANA SA Test",
+        "UserId": "6102937",
+        "FileName": "CorripioGroup.p12",
+        "Password": "C0rripio",
+        "TaxId": "TST-00006025"
+      },
+      {
+        "Environment": "TesteCF",
+        "Name": "CEREALES EN GENERAL TEST",
+        "UserId": "6102939",
+        "FileName": "CorripioGroup.p12",
+        "Password": "C0rripio",
+        "TaxId": "TST-00006026"
+      },
+      {
+        "Environment": "TesteCF",
+        "Name": "CORVI ACERO SAS Test",
+        "UserId": "6102940",
+        "FileName": "CorripioGroup.p12",
+        "Password": "C0rripio",
+        "TaxId": "TST-00006027"
+      },
+      {
+        "Environment": "TesteCF",
+        "Name": "CORVI PVC SAS Test",
+        "UserId": "6102941",
+        "FileName": "CorripioGroup.p12",
+        "Password": "C0rripio",
+        "TaxId": "TST-00006028"
+      },
+      {
+        "Environment": "TesteCF",
+        "Name": "LISTIN DIARIO Test",
+        "UserId": "6102944",
+        "FileName": "CorripioGroup.p12",
+        "Password": "C0rripio",
+        "TaxId": "TST-00006031"
+      },
+      {
+        "Environment": "TesteCF",
+        "Name": "ISLA DOMINICANA DE PETROLEO CORPORATION Test",
+        "UserId": "6102947",
+        "FileName": "CorripioGroup.p12",
+        "Password": "C0rripio",
+        "TaxId": "TST-00006033"
+      },
+      {
+        "Environment": "TesteCF",
+        "Name": "PRODUCTOS DEL TROPICO Test",
+        "UserId": "6102950",
+        "FileName": "CorripioGroup.p12",
+        "Password": "C0rripio",
+        "TaxId": "TST-00006036"
+      },
+      {
+        "Environment": "TesteCF",
+        "Name": "TELEANTILLAS Test",
+        "UserId": "6102955",
+        "FileName": "CorripioGroup.p12",
+        "Password": "C0rripio",
+        "TaxId": "TST-00006040"
+      },
+      {
+        "Environment": "TesteCF",
+        "Name": "CANAL 11 Test",
+        "UserId": "6102956",
+        "FileName": "CorripioGroup.p12",
+        "Password": "C0rripio",
+        "TaxId": "TST-00006041"
+      },
+      {
+        "Environment": "TesteCF",
+        "Name": "LANCO DOMINICANA Test",
+        "UserId": "6102958",
+        "FileName": "CorripioGroup.p12",
+        "Password": "C0rripio",
+        "TaxId": "TST-00006043"
+      },
+      {
+        "Environment": "TesteCF",
+        "Name": "MOLINOS DEL HIGUAMO INC Test",
+        "UserId": "6102959",
+        "FileName": "CorripioGroup.p12",
+        "Password": "C0rripio",
+        "TaxId": "TST-00006044"
+      },
+      {
+        "Environment": "TesteCF",
+        "Name": "EDITORA HOY SAS Test",
+        "UserId": "6102962",
+        "FileName": "CorripioGroup.p12",
+        "Password": "C0rripio",
+        "TaxId": "TST-00006045"
+      },
+      {
+        "Environment": "CerteCF",
+        "Name": "ALAMBRES Y CABLES S A S Cert",
+        "UserId": "6105680",
+        "FileName": "CorripioGroup.p12",
+        "Password": "C0rripio",
+        "TaxId": "TST-00006061"
+      },
+      {
+        "Environment": "CerteCF",
+        "Name": "CARIBEX DOMINICANA SA Cert",
+        "UserId": "6105682",
+        "FileName": "CorripioGroup.p12",
+        "Password": "C0rripio",
+        "TaxId": "TST-00006063"
+      },
+      {
+        "Environment": "CerteCF",
+        "Name": "CEREALES EN GENERAL Cert",
+        "UserId": "6105683",
+        "FileName": "CorripioGroup.p12",
+        "Password": "C0rripio",
+        "TaxId": "TST-00006064"
+      },
+      {
+        "Environment": "CerteCF",
+        "Name": "CORVI ACERO SAS Cert",
+        "UserId": "6105684",
+        "FileName": "CorripioGroup.p12",
+        "Password": "C0rripio",
+        "TaxId": "TST-00006065"
+      },
+      {
+        "Environment": "CerteCF",
+        "Name": "CORVI PVC SAS Cert",
+        "UserId": "6105685",
+        "FileName": "CorripioGroup.p12",
+        "Password": "C0rripio",
+        "TaxId": "TST-00006066"
+      },
+      {
+        "Environment": "CerteCF",
+        "Name": "LISTIN DIARIO Cert",
+        "UserId": "6105692",
+        "FileName": "CorripioGroup.p12",
+        "Password": "C0rripio",
+        "TaxId": "TST-00006073"
+      },
+      {
+        "Environment": "CerteCF",
+        "Name": "ISLA DOMINICANA DE PETROLEO CORPORATION Cert",
+        "UserId": "6105690",
+        "FileName": "CorripioGroup.p12",
+        "Password": "C0rripio",
+        "TaxId": "TST-00006071"
+      },
+      {
+        "Environment": "CerteCF",
+        "Name": "PRODUCTOS DEL TROPICO Cert",
+        "UserId": "6105699",
+        "FileName": "CorripioGroup.p12",
+        "Password": "C0rripio",
+        "TaxId": "TST-00006078"
+      },
+      {
+        "Environment": "CerteCF",
+        "Name": "TELEANTILLAS Cert",
+        "UserId": "6105705",
+        "FileName": "CorripioGroup.p12",
+        "Password": "C0rripio",
+        "TaxId": "TST-00006082"
+      },
+      {
+        "Environment": "CerteCF",
+        "Name": "CANAL 11 Cert",
+        "UserId": "6105681",
+        "FileName": "CorripioGroup.p12",
+        "Password": "C0rripio",
+        "TaxId": "TST-00006062"
+      },
+      {
+        "Environment": "CerteCF",
+        "Name": "LANCO DOMINICANA Cert",
+        "UserId": "6105691",
+        "FileName": "CorripioGroup.p12",
+        "Password": "C0rripio",
+        "TaxId": "TST-00006072"
+      },
+      {
+        "Environment": "CerteCF",
+        "Name": "MOLINOS DEL HIGUAMO INC Cert",
+        "UserId": "6105694",
+        "FileName": "CorripioGroup.p12",
+        "Password": "C0rripio",
+        "TaxId": "TST-00006075"
+      },
+      {
+        "Environment": "CerteCF",
+        "Name": "EDITORA HOY SAS Cert",
+        "UserId": "6105689",
+        "FileName": "CorripioGroup.p12",
+        "Password": "C0rripio",
+        "TaxId": "TST-00006070"
+      },
+      {
+        "Environment": "TesteCF",
+        "Name": "VoxelCaribe Test DGII Travel",
+        "UserId": "6106513",
+        "FileName": "VoxelCaribeTestDGII-Travel.p12",
+        "Password": "qtzAFxQ6kURbARey",
+        "TaxId": "TST-00006087"
+      },
+      {
+        "Environment": "TesteCF",
+        "Name": "Sinergit Test",
+        "UserId": 6278908,
+        "FileName": "Sinergit.p12",
+        "Password": "corderom",
+        "TaxId": "TST-00006131"
+      },
+      {
+        "Environment": "CerteCF",
+        "Name": "Sinergit Cert",
+        "UserId": 6278909,
+        "FileName": "Sinergit.p12",
+        "Password": "corderom",
+        "TaxId": "TST-00006132"
+      },
+      {
+        "Environment": "CerteCF",
+        "Name": "Valiente Fernández Cert DGII",
+        "UserId": 6282141,
+        "FileName": "ValienteFernandez.p12",
+        "Password": "Valfe5220",
+        "TaxId": "TST-00006149"
+      },
+      {
+        "Environment": "eCF",
+        "Name": "Ajfa S.A Prod",
+        "UserId": 1200199,
+        "FileName": "Ajfa.SA.2022.p12",
+        "Password": "ccpajfa1",
+        "TaxId": 101008849
+      },
+      {
+        "Environment": "CerteCF",
+        "Name": "Ajfa S.A Cert",
+        "UserId": 6404793,
+        "FileName": "Ajfa.SA.2022.p12",
+        "Password": "ccpajfa1",
+        "TaxId": "TST-00006155"
+      },
+      {
+        "Environment": "TesteCF",
+        "Name": "Ajfa S.A Test",
+        "UserId": 6404796,
+        "FileName": "Ajfa.SA.2022.p12",
+        "Password": "ccpajfa1",
+        "TaxId": "TST-00006156"
+      },
+      {
+        "Environment": "CerteCF",
+        "Name": "Abejas Logistic Group Cert",
+        "UserId": 6547129,
+        "FileName": "AbejasLogisticGroup.p12",
+        "Password": "CORALES",
+        "TaxId": "TST-00006203"
+      },
+      {
+        "Environment": "eCF",
+        "Name": "Refidomsa Prod",
+        "UserId": 6281125,
+        "FileName": "Refidomsa.p12",
+        "Password": "Lm110179",
+        "TaxId": 114000325
+      },
+      {
+        "Environment": "CerteCF",
+        "Name": "Refidomsa Cert",
+        "UserId": 6547773,
+        "FileName": "Refidomsa.p12",
+        "Password": "Lm110179",
+        "TaxId": "TST-00006212"
+      },
+      {
+        "Environment": "TesteCF",
+        "Name": "Refidomsa Test",
+        "UserId": 6281145,
+        "FileName": "Refidomsa.p12",
+        "Password": "Lm110179",
+        "TaxId": "TST-00006140"
+      },
+      {
+        "Environment": "eCF",
+        "Name": "Almacenes Samuel Abreu Prod",
+        "UserId": 6406609,
+        "FileName": "AlmacenesSamuelAbreu.p12",
+        "Password": "asa51617",
+        "TaxId": 130751617
+      },
+      {
+        "Environment": "CerteCF",
+        "Name": " Almacenes Samuel Abreu Cert",
+        "UserId": 6547478,
+        "FileName": "AlmacenesSamuelAbreu.p12",
+        "Password": "asa51617",
+        "TaxId": "TST-00006210"
+      },
+      {
+        "Environment": "TesteCF",
+        "Name": "Almacenes Samuel Abreu Test",
+        "UserId": 6547477,
+        "FileName": "AlmacenesSamuelAbreu.p12",
+        "Password": "asa51617",
+        "TaxId": "TST-00006209"
+      },
+      {
+        "Environment": "eCF",
+        "Name": "Carrujo Empresarial Prod",
+        "UserId": 6405880,
+        "FileName": "CarrujoEmpresarial.p12",
+        "Password": "Carrujo01",
+        "TaxId": 101790075
+      },
+      {
+        "Environment": "CerteCF",
+        "Name": "Carrujo Empresarial Cert",
+        "UserId": 6546670,
+        "FileName": "CarrujoEmpresarial.p12",
+        "Password": "Carrujo01",
+        "TaxId": "TST-00006198"
+      },
+      {
+        "Environment": "TesteCF",
+        "Name": "Carrujo Empresarial Test",
+        "UserId": 6546669,
+        "FileName": "CarrujoEmpresarial.p12",
+        "Password": "Carrujo01",
+        "TaxId": "TST-00006197"
+      },
+      {
+        "Environment": "eCF",
+        "Name": "Madesol Prod",
+        "UserId": 6716109,
+        "FileName": "Madesol-2023.p12",
+        "Password": "Madesol2022*/",
+        "TaxId": 101676337
+      },
+      {
+        "Environment": "CerteCF",
+        "Name": "Madesol Cert",
+        "UserId": 6718098,
+        "FileName": "Madesol-2023.p12",
+        "Password": "Madesol2022*/",
+        "TaxId": "TST-00006234"
+      },
+      {
+        "Environment": "TesteCF",
+        "Name": "Madesol Test",
+        "UserId": 6718097,
+        "FileName": "Madesol-2023.p12",
+        "Password": "Madesol2022*/",
+        "TaxId": "TST-00006233"
+      },
+      {
+        "Environment": "eCF",
+        "Name": "Fraga Industrial",
+        "UserId": 6717801,
+        "FileName": "FragaIndustrial-2023.p12",
+        "Password": "Fragaind20",
+        "TaxId": 131235859
+      },
+      {
+        "Environment": "CerteCF",
+        "Name": "Fraga Industrial Cert",
+        "UserId": 6718502,
+        "FileName": "FragaIndustrial-2023.p12",
+        "Password": "Fragaind20",
+        "TaxId": "TST-00006239"
+      },
+      {
+        "Environment": "TesteCF",
+        "Name": "Fraga Industrial Test",
+        "UserId": 6718501,
+        "FileName": "FragaIndustrial-2023.p12",
+        "Password": "Fragaind20",
+        "TaxId": "TST-00006238"
+      },
+      {
+        "Environment": "TesteCF",
+        "Name": "Tuco Test DGII",
+        "UserId": 6833641,
+        "FileName": "Tuco.p12",
+        "Password": "TUCO22",
+        "TaxId": "TST-00006246"
+      },
+      {
+        "Environment": "CerteCF",
+        "Name": "Tuco Cert DGII",
+        "UserId": 6833642,
+        "FileName": "Tuco.p12",
+        "Password": "TUCO22",
+        "TaxId": "TST-00006247"
+      },
+      {
+        "Environment": "CerteCF",
+        "Name": "La Colonial Cert",
+        "UserId": 6010266,
+        "FileName": "LaColonial-2023.p12",
+        "Password": "L@colonial75*",
+        "TaxId": "TST-00006015"
+      },
+      {
+        "Environment": "eCF",
+        "Name": "Huawei Technologies Dominicana Srl",
+        "UserId": 6547099,
+        "FileName": "HuaweiTechnologiesDominicanaSrl.p12",
+        "Password": "WW19921128",
+        "TaxId": 130668142
+      },
+      {
+        "Environment": "CerteCF",
+        "Name": "Huawei Technologies Dominicana Srl Cert",
+        "UserId": 6548764,
+        "FileName": "HuaweiTechnologiesDominicanaSrl.p12",
+        "Password": "WW19921128",
+        "TaxId": "TST-00006224"
+      },
+      {
+        "Environment": "TesteCF",
+        "Name": "Huawei Technologies Dominicana Srl Test",
+        "UserId": 6548765,
+        "FileName": "HuaweiTechnologiesDominicanaSrl.p12",
+        "Password": "WW19921128",
+        "TaxId": "TST-00006225"
+      },
+      {
+        "Environment": "CerteCF",
+        "Name": "Distribuidora Corripio Cert",
+        "UserId": 7167808,
+        "FileName": "DistribuidoraCorripio.p12",
+        "Password": "Discor*3",
+        "TaxId": "TST-00006276"
+      },
+      {
+        "Environment": "eCF",
+        "Name": "SEPRISA",
+        "UserId": 6283334,
+        "FileName": "Seprisa.p12",
+        "Password": "Seprisa6521",
+        "TaxId": 101160349
+      },
+      {
+        "Environment": "CerteCF",
+        "Name": "Seprisa Cert DGII",
+        "UserId": 7171269,
+        "FileName": "Seprisa.p12",
+        "Password": "Seprisa6521",
+        "TaxId": "TST-00006282"
+      },
+      {
+        "Environment": "TesteCF",
+        "Name": "Seprisa Test DGII",
+        "UserId": 7171270,
+        "FileName": "Seprisa.p12",
+        "Password": "Seprisa6521",
+        "TaxId": "TST-00006283"
+      },
+      {
+        "Environment": "eCF",
+        "Name": "COBINCA, SA",
+        "UserId": 7171615,
+        "FileName": "Cobinca.p12",
+        "Password": "f5625164",
+        "TaxId": 101194472
+      },
+      {
+        "Environment": "CerteCF",
+        "Name": "COBINCA Cert DGII",
+        "UserId": 7172237,
+        "FileName": "Cobinca.p12",
+        "Password": "f5625164",
+        "TaxId": "TST-00006298"
+      },
+      {
+        "Environment": "TesteCF",
+        "Name": "COBINCA Test DGII",
+        "UserId": 7172236,
+        "FileName": "Cobinca.p12",
+        "Password": "f5625164",
+        "TaxId": "TST-00006297"
+      },
+      {
+        "Environment": "CerteCF",
+        "Name": "La Fabril Cert DGII",
+        "UserId": 7171816,
+        "FileName": "La Fabril.p12",
+        "Password": "LaFabril",
+        "TaxId": "TST-00006294"
+      },
+      {
+        "Environment": "eCF",
+        "Name": " Imeko Dominicana",
+        "UserId": 6980645,
+        "FileName": "La Fabril.p12",
+        "Password": "LaFabril",
+        "TaxId": 130221839
+      },
+      {
+        "Environment": "CerteCF",
+        "Name": "Imeko Cert DGII",
+        "UserId": 6980648,
+        "FileName": "La Fabril.p12",
+        "Password": "LaFabril",
+        "TaxId": "TST-00006268"
+      },
+      {
+        "Environment": "eCF",
+        "Name": "Carrefour RD",
+        "UserId": 5016334,
+        "FileName": "CarrefourRd.p12",
+        "Password": "Digi123@",
+        "TaxId": 101802456
+      },
+      {
+        "Environment": "CerteCF",
+        "Name": "Carrefour RD Cert",
+        "UserId": 7173370,
+        "FileName": "CarrefourRd.p12",
+        "Password": "Digi123@",
+        "TaxId": "TST-00006313"
+      },
+      {
+        "Environment": "TesteCF",
+        "Name": "Carrefour RD Test",
+        "UserId": 7173369,
+        "FileName": "CarrefourRd.p12",
+        "Password": "Digi123@",
+        "TaxId": "TST-00006312"
+      },
+      {
+        "Environment": "CerteCF",
+        "Name": "Telares by Stonewood Cert",
+        "UserId": 7173570,
+        "FileName": "TelaresByStonewood.p12",
+        "Password": "panamA-212",
+        "TaxId": "TST-00006319"
+      },
+      {
+        "Environment": "eCF",
+        "Name": "BAINSA ZF S.R.L.",
+        "UserId": "7355219",
+        "FileName": "BainsaZf.p12",
+        "Password": "v9-Fa5H9",
+        "TaxId": "131870279"
+      },
+      {
+        "Environment": "CerteCF",
+        "Name": "BAINSA ZF S.R.L.",
+        "UserId": "7355387",
+        "FileName": "BainsaZf.p12",
+        "Password": "v9-Fa5H9",
+        "TaxId": "TST-00006332"
+      },
+      {
+        "Environment": "TesteCF",
+        "Name": "BAINSA ZF S.R.L.",
+        "UserId": "7355388",
+        "FileName": "BainsaZf.p12",
+        "Password": "v9-Fa5H9",
+        "TaxId": "TST-00006333"
+      },
+      {
+        "Environment": "eCF",
+        "Name": "JAJA AGROINDUSTRIAL, S.A.",
+        "UserId": "2230777",
+        "FileName": "JajaAgroindustrial.p12",
+        "Password": "famosa01",
+        "TaxId": "108-00057-1"
+      },
+      {
+        "Environment": "CerteCF",
+        "Name": "JAJA AGROINDUSTRIAL, S.A.",
+        "UserId": "7355393",
+        "FileName": "JajaAgroindustrial.p12",
+        "Password": "famosa01",
+        "TaxId": "TST-00006337"
+      },
+      {
+        "Environment": "TesteCF",
+        "Name": "JAJA AGROINDUSTRIAL, S.A.",
+        "UserId": "7355392",
+        "FileName": "JajaAgroindustrial.p12",
+        "Password": "famosa01",
+        "TaxId": "TST-00006336"
+      },
+      {
+        "Environment": "eCF",
+        "Name": "PLASTICOS MULTIFORM",
+        "UserId": "2234151",
+        "FileName": "PlasticosMultiform.p12",
+        "Password": "Multiform01",
+        "TaxId": "101070617"
+      },
+      {
+        "Environment": "CerteCF",
+        "Name": "PLASTICOS MULTIFORM",
+        "UserId": "7175106",
+        "FileName": "PlasticosMultiform.p12",
+        "Password": "Multiform01",
+        "TaxId": "TST-00006322"
+      },
+      {
+        "Environment": "TesteCF",
+        "Name": "PLASTICOS MULTIFORM",
+        "UserId": "7175105",
+        "FileName": "PlasticosMultiform.p12",
+        "Password": "Multiform01",
+        "TaxId": "TST-00006321"
+      },
+      {
+        "Name": "Quala Dominicana Test",
+        "Environment": "TesteCF",
+        "UserId": 5902785,
+        "FileName": "QualaDominicana-2023.p12",
+        "Password": "fedo2023",
+        "TaxId": "TST-00005976"
+      },
+      {
+        "Name": "Quala Dominicana Cert",
+        "Environment": "CerteCF",
+        "UserId": 5902786,
+        "FileName": "QualaDominicana-2023.p12",
+        "Password": "fedo2023",
+        "TaxId": "TST-00005977"
+      },
+      {
+        "Name": "Quala Dominicana Prod",
+        "Environment": "eCF",
+        "UserId": 668619,
+        "FileName": "QualaDominicana-2023.p12",
+        "Password": "fedo2023",
+        "TaxId": "101741678"
+      },
+      {
+        "Name": "Proquala Test",
+        "Environment": "TesteCF",
+        "UserId": 5903893,
+        "FileName": "ProqualaDominicana-2023.p12",
+        "Password": "fedo2023",
+        "TaxId": "TST-00005993"
+      },
+      {
+        "Name": "Proquala Cert",
+        "Environment": "CerteCF",
+        "UserId": 5903894,
+        "FileName": "ProqualaDominicana-2023.p12",
+        "Password": "fedo2023",
+        "TaxId": "TST-00005994"
+      },
+      {
+        "Name": "Proquala Prod",
+        "Environment": "eCF",
+        "UserId": 5903892,
+        "FileName": "ProqualaDominicana-2023.p12",
+        "Password": "fedo2023",
+        "TaxId": "130294933"
+      },
+      {
+        "Environment": "eCF",
+        "Name": "Leterago",
+        "UserId": "4620348",
+        "FileName": "Leterago.p12",
+        "Password": "Leterago2023",
+        "TaxId": "101013575"
+      },
+      {
+        "Environment": "CerteCF",
+        "Name": "Leterago",
+        "UserId": "7357749",
+        "FileName": "Leterago.p12",
+        "Password": "Leterago2023",
+        "TaxId": "TST-00006346"
+      },
+      {
+        "Environment": "TesteCF",
+        "Name": "Leterago",
+        "UserId": "7357748",
+        "FileName": "Leterago.p12",
+        "Password": "Leterago2023",
+        "TaxId": "TST-00006345"
+      },
+      {
+        "Environment": "eCF",
+        "Name": "Whala! Hotels",
+        "UserId": "6406265",
+        "FileName": "WhalaHotels.p12",
+        "Password": "Dgfirma*72",
+        "TaxId": "130268282"
+      },
+      {
+        "Environment": "CerteCF",
+        "Name": "Whala! Hotels",
+        "UserId": "8114472",
+        "FileName": "WhalaHotels.p12",
+        "Password": "Dgfirma*72",
+        "TaxId": "TST-00006364"
+      },
+      {
+        "Environment": "TesteCF",
+        "Name": "Whala! Hotels",
+        "UserId": "8114387",
+        "FileName": "WhalaHotels.p12",
+        "Password": "Dgfirma*72",
+        "TaxId": "TST-00006363"
+      },
+      {
+        "Environment": "eCF",
+        "Name": "Majestic Desarrollo del Caribe produccion",
+        "UserId": 5276622,
+        "FileName": "tyche-group-2023.p12",
+        "Password": "Teror2021",
+        "TaxId": 132048474
+      },
+      {
+        "Environment": "TesteCF",
+        "Name": "Majestic Desarrollo del Caribe test",
+        "UserId": 10519771,
+        "FileName": "tyche-group-2023.p12",
+        "Password": "Teror2021",
+        "TaxId": "TST-00006393"
+      },
+      {
+        "Environment": "CerteCF",
+        "Name": "Majestic Desarrollo del Caribe certificacion",
+        "UserId": 10520246,
+        "FileName": "tyche-group-2023.p12",
+        "Password": "Teror2021",
+        "TaxId": "TST-00006394"
+      },
+      {
+        "Environment": "eCF",
+        "Name": "Tulcani Comercial produccion",
+        "UserId": 5276617,
+        "FileName": "tyche-group-2023.p12",
+        "Password": "Teror2021",
+        "TaxId": 130093571
+      },
+      {
+        "Environment": "TesteCF",
+        "Name": "Tulcani Comercial test",
+        "UserId": 10521048,
+        "FileName": "tyche-group-2023.p12",
+        "Password": "Teror2021",
+        "TaxId": "TST-00006395"
+      },
+      {
+        "Environment": "CerteCF",
+        "Name": "Tulcani Comercial certificacion",
+        "UserId": 10521254,
+        "FileName": "tyche-group-2023.p12",
+        "Password": "Teror2021",
+        "TaxId": "TST-00006396"
+      },
+      {
+        "Environment": "eCF",
+        "Name": "pedidos ya produccion",
+        "UserId": 5018448,
+        "FileName": "pedidosya-2023.p12",
+        "Password": "dasl1991",
+        "TaxId": 132110641
+      },
+      {
+        "Environment": "TesteCF",
+        "Name": "pedidos ya test",
+        "UserId": 5121306,
+        "FileName": "pedidosya-2023.p12",
+        "Password": "dasl1991",
+        "TaxId": "TST-00005884"
+      },
+      {
+        "Environment": "CerteCF",
+        "Name": "pedidos ya certificacion",
+        "UserId": 5121305,
+        "FileName": "pedidosya-2023.p12",
+        "Password": "dasl1991",
+        "TaxId": "TST-00005883"
+      },
+      {
+        "Environment": "eCF",
+        "Name": "aldereca produccion",
+        "UserId": 9652543,
+        "FileName": "aldereca-2023.p12",
+        "Password": "mcMr@081998",
+        "TaxId": 101020261
+      },
+      {
+        "Environment": "TesteCF",
+        "Name": "aldereca test",
+        "UserId": 9656746,
+        "FileName": "aldereca-2023.p12",
+        "Password": "mcMr@081998",
+        "TaxId": "TST-00006387"
+      },
+      {
+        "Environment": "CerteCF",
+        "Name": "aldereca certificacion",
+        "UserId": 9657107,
+        "FileName": "aldereca-2023.p12",
+        "Password": "mcMr@081998",
+        "TaxId": "TST-00006388"
+      },
+      {
+        "Environment": "eCF",
+        "Name": "tiendas la nacional produccion",
+        "UserId": 1322785,
+        "FileName": "tiendas-la-nacional-2023.p12",
+        "Password": "@2020Tln",
+        "TaxId": 101113197
+      },
+      {
+        "Environment": "TesteCF",
+        "Name": "tiendas la nacional test",
+        "UserId": 4770419,
+        "FileName": "tiendas-la-nacional-2023.p12",
+        "Password": "@2020Tln",
+        "TaxId": "TST-00005848"
+      },
+      {
+        "Environment": "CerteCF",
+        "Name": "tiendas la nacional cert",
+        "UserId": 4770418,
+        "FileName": "tiendas-la-nacional-2023.p12",
+        "Password": "@2020Tln",
+        "TaxId": "TST-00005847"
+      },
+      {
+        "Environment": "TesteCF",
+        "Name": "mardom test",
+        "UserId": 12542436,
+        "FileName": "mardom-2023.p12",
+        "Password": "Patricio17@",
+        "TaxId": "TST-00006420"
+      },
+      {
+        "Environment": "CerteCF",
+        "Name": "mardom cert",
+        "UserId": 12542437,
+        "FileName": "mardom-2023.p12",
+        "Password": "Patricio17@",
+        "TaxId": "TST-00006421"
+      },
+      {
+        "Environment": "CerteCF",
+        "Name": "cerveceria nacional dom cert",
+        "UserId": 12722405,
+        "FileName": "cerveceria_nacional_dom_2023.p12",
+        "Password": "CND1949",
+        "TaxId": "TST-00006463"
+      },
+      {
+        "Environment": "eCF",
+        "Name": "green star partners prod",
+        "UserId": 12546644,
+        "FileName": "green_star_partners_2023.p12",
+        "Password": "Paisco01.",
+        "TaxId": 131907768
+      },
+      {
+        "Environment": "TesteCF",
+        "Name": "green star partners test",
+        "UserId": 12546424,
+        "FileName": "green_star_partners_2023.p12",
+        "Password": "Paisco01.",
+        "TaxId": "TST-00006453"
+      },
+      {
+        "Environment": "CerteCF",
+        "Name": "green star partners cert",
+        "UserId": 12546643,
+        "FileName": "green_star_partners_2023.p12",
+        "Password": "Paisco01.",
+        "TaxId": "TST-00006456"
+      },
+      {
+        "Environment": "eCF",
+        "Name": "promociones y proyectos prod",
+        "UserId": 12471329,
+        "FileName": "prom_proy_fiesta_bavaro_hotels_2023.p12",
+        "Password": "M@11orca",
+        "TaxId": 101035872
+      },
+      {
+        "Environment": "TesteCF",
+        "Name": "promociones y proyectos test",
+        "UserId": 12543577,
+        "FileName": "prom_proy_fiesta_bavaro_hotels_2023.p12",
+        "Password": "M@11orca",
+        "TaxId": "TST-00006438"
+      },
+      {
+        "Environment": "CerteCF",
+        "Name": "promociones y proyectos cert",
+        "UserId": 12543578,
+        "FileName": "prom_proy_fiesta_bavaro_hotels_2023.p12",
+        "Password": "M@11orca",
+        "TaxId": "TST-00006439"
+      },
+      {
+        "Environment": "TesteCF",
+        "Name": "fiesta bavaro hotels test",
+        "UserId": 12543579,
+        "FileName": "prom_proy_fiesta_bavaro_hotels_2023.p12",
+        "Password": "M@11orca",
+        "TaxId": "TST-00006440"
+      },
+      {
+        "Environment": "CerteCF",
+        "Name": "fiesta bavaro hotels cert",
+        "UserId": 12543580,
+        "FileName": "prom_proy_fiesta_bavaro_hotels_2023.p12",
+        "Password": "M@11orca",
+        "TaxId": "TST-00006441"
+      },
+      {
+        "Environment": "TesteCF",
+        "Name": "TotalEnergies Marketing Dom Test",
+        "UserId": 6572237,
+        "FileName": "totalenergies-marketing-dom-2023.p12",
+        "Password": "Total21.",
+        "TaxId": "TST-00006227"
+      },
+      {
+        "Environment": "CerteCF",
+        "Name": "TotalEnergies Marketing Dom Cert",
+        "UserId": 6572354,
+        "FileName": "totalenergies-marketing-dom-2023.p12",
+        "Password": "Total21.",
+        "TaxId": "TST-00006228"
+      },
+      {
+        "Environment": "CerteCF",
+        "Name": "Cartones Caribe Cert",
+        "UserId": 8973927,
+        "FileName": "cartones-caribe-2023.p12",
+        "Password": "4MUfcR$7",
+        "TaxId": "TST-00006379"
+      },
+      {
+        "Environment": "TesteCF",
+        "Name": "ARS Primera test",
+        "UserId": 8502921,
+        "FileName": "humano-seguros-admin-salud-primera-2023.p12",
+        "Password": "Ecruzdr",
+        "TaxId": "TST-00006372"
+      },
+      {
+        "Environment": "CerteCF",
+        "Name": "ARS Primera cert",
+        "UserId": 8503016,
+        "FileName": "humano-seguros-admin-salud-primera-2023.p12",
+        "Password": "Ecruzdr",
+        "TaxId": "TST-00006373"
+      },
+      {
+        "Environment": "CerteCF",
+        "Name": "Solares y CIA Dom cert",
+        "UserId": 12543872,
+        "FileName": "Tanques_Antillanos_Solares_Cia_Dom_2023.p12",
+        "Password": "Madoca22",
+        "TaxId": "TST-00006447"
+      },
+      {
+        "Environment": "eCF",
+        "Name": "Tanques Antillos prod",
+        "UserId": 12542641,
+        "FileName": "Tanques_Antillanos_Solares_Cia_Dom_2023.p12",
+        "Password": "Madoca22",
+        "TaxId": 101608773
+      },
+      {
+        "Environment": "TesteCF",
+        "Name": "Tanques Antillos test",
+        "UserId": 12543839,
+        "FileName": "Tanques_Antillanos_Solares_Cia_Dom_2023.p12",
+        "Password": "Madoca22",
+        "TaxId": "TST-00006444"
+      },
+      {
+        "Environment": "CerteCF",
+        "Name": "Tanques Antillos cert",
+        "UserId": 12543864,
+        "FileName": "Tanques_Antillanos_Solares_Cia_Dom_2023.p12",
+        "Password": "Madoca22",
+        "TaxId": "TST-00006445"
+      },
+      {
+        "Environment": "TesteCF",
+        "Name": "COMMING2 test",
+        "UserId": 12724894,
+        "FileName": "Grupo_Pinero_2023.p12",
+        "Password": "Pygemy25....",
+        "TaxId": "TST-00006473"
+      },
+      {
+        "Environment": "CerteCF",
+        "Name": "COMMING2 cert",
+        "UserId": 12724895,
+        "FileName": "Grupo_Pinero_2023.p12",
+        "Password": "Pygemy25....",
+        "TaxId": "TST-00006474"
+      },
+      {
+        "Environment": "TesteCF",
+        "Name": "Cuatrope test",
+        "UserId": 12724892,
+        "FileName": "Grupo_Pinero_2023.p12",
+        "Password": "Pygemy25....",
+        "TaxId": "TST-00006471"
+      },
+      {
+        "Environment": "CerteCF",
+        "Name": "Cuatrope cert",
+        "UserId": 12724893,
+        "FileName": "Grupo_Pinero_2023.p12",
+        "Password": "Pygemy25....",
+        "TaxId": "TST-00006472"
+      },
+      {
+        "Environment": "TesteCF",
+        "Name": "Argos Dominicana test",
+        "UserId": 4770415,
+        "FileName": "argos-dom-2023.p12",
+        "Password": "Agosto08",
+        "TaxId": "TST-00005846"
+      },
+      {
+        "Environment": "CerteCF",
+        "Name": "Argos Dominicana cert",
+        "UserId": 4770414,
+        "FileName": "argos-dom-2023.p12",
+        "Password": "Agosto08",
+        "TaxId": "TST-00005845"
+      },
+      {
+        "Environment": "eCF",
+        "Name": "Seguros Universal Prod",
+        "UserId": 12542967,
+        "FileName": "seguros-universal-2023.p12",
+        "Password": "Universal50",
+        "TaxId": 101001941
+      },
+      {
+        "Environment": "TesteCF",
+        "Name": "Seguros Universal Test",
+        "UserId": 12542968,
+        "FileName": "seguros-universal-2023.p12",
+        "Password": "Universal50",
+        "TaxId": "TST-00006426"
+      },
+      {
+        "Environment": "CerteCF",
+        "Name": "Seguros Universal Cert",
+        "UserId": 12542969,
+        "FileName": "seguros-universal-2023.p12",
+        "Password": "Universal50",
+        "TaxId": "TST-00006427"
+      },
+      {
+        "Environment": "TesteCF",
+        "Name": "Materiales Dominicanos Test",
+        "UserId": 12543873,
+        "FileName": "materiales_dominicanos_2023.p12",
+        "Password": "Madoca22",
+        "TaxId": "TST-00006448"
+      },
+      {
+        "Environment": "CerteCF",
+        "Name": "Materiales Dominicanos Cert",
+        "UserId": 12543874,
+        "FileName": "materiales_dominicanos_2023.p12",
+        "Password": "Madoca22",
+        "TaxId": "TST-00006449"
+      },
+      {
+        "Environment": "CerteCF",
+        "Name": "CATALONIA CERT",
+        "UserId": "12847277",
+        "FileName": "calatonia.p12",
+        "Password": "CataloniaRD.2023",
+        "TaxId": "TST-00006505"
+      },
+      {
+        "Environment": "eCF",
+        "Name": "Inversiones Punta Laguna prod",
+        "UserId": 3785377,
+        "FileName": "Iberostar-2023.p12",
+        "Password": "Iberostar2025",
+        "TaxId": 101719257
+      },
+      {
+        "Environment": "TesteCF",
+        "Name": "Iberostar test",
+        "UserId": 6548237,
+        "FileName": "Iberostar-2023.p12",
+        "Password": "Iberostar2025",
+        "TaxId": "TST-00006215"
+      },
+      {
+        "Environment": "CerteCF",
+        "Name": "Iberostar cert",
+        "UserId": 6548238,
+        "FileName": "Iberostar-2023.p12",
+        "Password": "Iberostar2025",
+        "TaxId": "TST-00006216"
+      }
+    ]
+  }
+}
