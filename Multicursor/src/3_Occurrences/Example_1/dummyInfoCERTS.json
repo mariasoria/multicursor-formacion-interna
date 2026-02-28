@@ -1,7 +1,7 @@
 // Replace TaxIds for the ones that are at the end of the file
 {
-  "DgiiCertificatesSettings": {
-    "BasePathCert": "Voxel.TransactionsReceiver.CrossCutting.Resources.Certificates",
+  "CertificatesSettings": {
+    "BasePathCert": "Resources.Certificates",
     "Certificates": [
       {
         "Name": "Voxel Caribe Cert",
