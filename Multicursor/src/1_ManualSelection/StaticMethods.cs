@@ -7,9 +7,9 @@ public class StaticMethods
         var olaKAse = 1;
     }
 
-    public int EstudiaOKAse()
+    public int EstudiaOKAse(int myNumber)
     {
-        return 2;
+        return myNumber;
     }
 
     private string TrabajaOKAse()
