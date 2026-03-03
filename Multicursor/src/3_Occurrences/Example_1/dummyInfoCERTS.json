@@ -4,12 +4,6 @@
     "BasePathCert": "Resources.Certificates",
     "Certificates": [
       {
-        "Name": "Voxel Caribe Cert",
-        "Environment": "Certificado",
-        "UserId": "UserId",
-        "TaxId": "TaxId"
-      },
-      {
         "Name": "Administración y Atesoramiento Test",
         "Environment": "Test",
         "UserId": "UserId",
