@@ -1,4 +1,4 @@
-// Replace TaxIds for the ones that are at the end of the file
+/* Replace TaxIds for the ones that are at the end of the file*/
 {
   "CertificatesSettings": {
     "BasePathCert": "Resources.Certificates",
