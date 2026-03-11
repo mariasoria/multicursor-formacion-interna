@@ -1,8 +1,8 @@
-// Create an object in recipe.cs
+// Update the RecipeBuilder to accept "with" methods
 
 id (int)
 name (string)
-age (int)
+suitableAge (int)
 picturePath (string)
 preparationTimeInMinutes (int)
 cookingTimeInMinutes (int)
